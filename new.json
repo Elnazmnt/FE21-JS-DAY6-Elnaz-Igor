@@ -1,0 +1,10 @@
+var sandwiches = `{ "sandwich": "hamburger", "calories": "260" }`;
+var fries = `{ "fries_size": "Large French Fries", "calories": "570" }`;
+
+var employee=`[{"UniqueID":"00", "FirstName":"name0", "LastName":"LastName0", "EmailAddress":"0email@gmail.com", "JobTitle":"employe0", "Salary":"4000$" },
+    {"UniqueID":"01", "FirstName":"name1", "LastName":"LastName1", "EmailAddress":"1email@gmail.com", "JobTitle":"employe1", "Salary":"5000$" },
+    {"UniqueID":"02", "FirstName":"name2", "LastName":"LastName2", "EmailAddress":"2email@gmail.com", "JobTitle":"employe2", "Salary":"6000$" },
+    {"UniqueID":"03", "FirstName":"name3", "LastName":"LastName3", "EmailAddress":"3email@gmail.com", "JobTitle":"employe3", "Salary":"7000$" },
+    {"UniqueID":"04", "FirstName":"name4", "LastName":"LastName4", "EmailAddress":"4email@gmail.com", "JobTitle":"employe4", "Salary":"8000$" }
+
+]`;
