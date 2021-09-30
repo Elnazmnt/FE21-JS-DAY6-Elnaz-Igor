@@ -1,0 +1,28 @@
+let books = `[{
+    "title": "In Search of Lost Time",
+    "author": "Marcel Proust",
+    "read": false,
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/7hqv6ddaqv363p4hadx6lymotow1"
+
+   },
+   {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "read": true,
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/m8sdet02cc7mdl8l6jow8cpl7co2"
+
+   },
+   {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "read": false,
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/epke1jolmtb858vv9ctbtxpa8yi6"
+
+   },
+   {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "read": true,
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/kedoaww5u33ka020nxmaxqscpgiz"
+
+   }]`

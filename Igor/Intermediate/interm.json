@@ -1,0 +1,141 @@
+let employees = `[{
+
+    "uniqueId": "29893944817",
+
+    "firstName" : "Patrik",
+
+    "lastName": "Jonathan",
+
+    "emaidAddress": "patrik.k.j@gmail.com",
+
+    "jobTitle" : "developer",
+
+    "salary": "350000"
+
+},
+{
+    "uniqueId": "29893424817",
+
+    "firstName" : "John",
+
+    "lastName": "Jonathan",
+
+    "emaidAddress": "john.k.j@gmail.com",
+
+    "jobTitle" : "analyst",
+
+    "salary": "360000"
+
+},
+{
+    "uniqueId": "29893924517",
+
+    "firstName" : "Alex",
+
+    "lastName": "Wick",
+
+    "emaidAddress": "alex.j@gmail.com",
+
+    "jobTitle" : "accountant",
+
+    "salary": "370000"
+
+},
+{
+    "uniqueId": "29893944817",
+
+    "firstName" : "William",
+
+    "lastName": "Jonathan",
+
+    "emaidAddress": "will.k.j@gmail.com",
+
+    "jobTitle" : "manager",
+
+    "salary": "380000"
+
+},
+{
+    "uniqueId": "29893944819",
+
+    "firstName" : "Arnold",
+
+    "lastName": "Jonathan",
+
+    "emaidAddress": "arnold.k.j@gmail.com",
+
+    "jobTitle" : "lawyer",
+
+    "salary": "550000"
+
+},
+{
+    "uniqueId": "29893944437",
+
+    "firstName" : "Boris",
+
+    "lastName": "Jonathan",
+
+    "emaidAddress": "bpris.k.j@gmail.com",
+
+    "jobTitle" : "journalist",
+
+    "salary": "430000"
+
+},
+{
+    "uniqueId": "29893944767",
+
+    "firstName" : "David",
+
+    "lastName": "Jonathan",
+
+    "emaidAddress": "divid.k.j@gmail.com",
+
+    "jobTitle" : "senior manager",
+
+    "salary": "650000"
+
+},
+{
+    "uniqueId": "29893944657",
+
+    "firstName" : "Lukas",
+
+    "lastName": "Jonathan",
+
+    "emaidAddress": "lukas.k.j@gmail.com",
+
+    "jobTitle" : "architect",
+
+    "salary": "450000"
+
+},
+{
+    "uniqueId": "29893944327",
+
+    "firstName" : "Andrew",
+
+    "lastName": "Jonathan",
+
+    "emaidAddress": "andrew.k.j@gmail.com",
+
+    "jobTitle" : "marketing manager",
+
+    "salary": "390000"
+
+},
+{
+    "uniqueId": "29893944817",
+
+    "firstName" : "Steven",
+
+    "lastName": "Jonathan",
+
+    "emaidAddress": "steven.k.j@gmail.com",
+
+    "jobTitle" : "PR manager",
+
+    "salary": "470000"
+
+}]`
